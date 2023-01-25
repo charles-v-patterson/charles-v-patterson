@@ -1,10 +1,23 @@
-# Profile Page
+# Hi! I'm Charles Patterson. 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id = "intro" align="left">
+  <img src = "https://media.giphy.com/media/mWXinxGox2JD21szT1/giphy.gif" width = "200"/>
+  <ul>
+    <li>I've accepted and offer and start at IBM in the next coming months.</li>
+    <li>I'm open for collaboration!</li>
+    <li>I can be reached at: charles.van.patterson88@gmail.com</li>
+  </ul>
 </div>
 
-<div id="badges">
+<div id = "bread&butter" align = "left">
+  <img src = "https://media.giphy.com/media/hT7MDx9tpZEfLlSdJw/giphy.gif" width = "200"/>
+</div>
+
+<div id ="header" align="center">
+  <img src ="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
+</div>
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/charles-v-patterson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,3 +34,6 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=charles-v-patterson)](https://git.io/streak-stats)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-v-patterson&show_icons=true&theme=dracula)
